@@ -19,7 +19,7 @@ Ask Amount
 Affiliation, Use Case, Orginaization, Special Considerations
 ##### Compiling, Training, and Evaluating the Model
 -How many neurons, layers, and activation functions did you select for your neural network model, and why?
-![Neural Network Model]("neural_network_model.png")
+![Neural Network Model](neural_network_model.png)
 -Were you able to achieve the target model performance?
 I was not able to meet the target performance
 -What steps did you take to try and increase model performance?
